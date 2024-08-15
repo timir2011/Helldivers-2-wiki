@@ -1,0 +1,80 @@
+body{
+  margin: 0;
+}
+
+h1{
+  margin: 0;
+}
+
+header{
+
+   height:400px ; 
+ background-color: aqua;
+color: black;
+text-align: center;
+font-size: 45px;
+background-image: url(https://i.guim.co.uk/img/media/4527f8a6bb1a888bf38e1b2802a4ee19cd4ea766/501_575_2642_1585/master/2642.jpg?width=465&dpr=1&s=none);
+background-size: contain;
+font-family: consolas;
+}
+
+main{
+
+
+ height: 1975px;   
+background-color: black;
+color: white;
+text-align: left;
+font-size: 30px;
+padding: 10px;
+display: flex;
+}
+
+.left{
+width: 50%;
+text-align: justify
+font-size 30px;
+
+    
+
+
+}
+
+.right{
+width: 50%;
+text-align: center;
+
+}
+
+
+
+footer{
+    height: 250px;
+    background-color: gray;
+    color: black;
+    text-align: left;
+    font-size: 25px;
+    padding: 25px;
+}
+
+
+.social img{
+  width: 100px;
+  
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
